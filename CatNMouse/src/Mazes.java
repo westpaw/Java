@@ -233,8 +233,9 @@ public class Mazes
 		ArrayList<char[]> maze = new ArrayList<char[]>();
 		
 		System.out.print("Enter the name of your maze:  ");
+		String mazeName = input.readLine() + ".txt";
 		
-		FileReader fileReader = new FileReader(input.readLine());
+		FileReader fileReader = new FileReader(mazeName);
 		BufferedReader fileInput = new BufferedReader(fileReader);
 		
 		String line = fileInput.readLine();
