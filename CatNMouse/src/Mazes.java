@@ -232,7 +232,7 @@ public class Mazes
 		int cols;
 		ArrayList<char[]> maze = new ArrayList<char[]>();
 		
-		System.out.println("Enter the name of your maze:  ");
+		System.out.print("Enter the name of your maze:  ");
 		
 		FileReader fileReader = new FileReader(input.readLine());
 		BufferedReader fileInput = new BufferedReader(fileReader);
