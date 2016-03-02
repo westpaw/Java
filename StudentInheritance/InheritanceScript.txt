@@ -1,0 +1,10 @@
+Moe Fiat 12 2.89 true 25.50
+Moe Enster 9 3.17 2
+Sam Taclus 10 3.86 2150
+Matt Gitrik 11 2.8 advanced
+Dom Spupidhead 10 0.0 300
+Amanda Truns 9 3.9 0
+Lawrence Andortre 10 2.77 1630
+Tony Fich 11 3.12 basic
+Gordan Punkin 12 2.85 false 12.04
+Paul Oercabl 11 3.4 proficient

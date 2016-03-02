@@ -1,0 +1,25 @@
+	An array is a data structure made up of a group of locations having the 
+same type and given a common name.  Each individual location is accessed by 
+its name and position (index) in the group.  The position numbering starts at 
+zero.
+
+	Described below are some typical types of processing that occur when 
+using arrays:  searching, sorting, and parallel arrays.
+
+	Searching is looking systematically through the elements of an array for a 
+specific value.  You may need to know only if the value is in the array, or you 
+may need to know its position in the array.  There are two algorithms for 
+searching:  linear and binary.
+
+	Arranging values in ascending, descending, or alphabetical order is 
+called sorting.  There are many different algorithms for sorting.  The ones we will 
+study include selection, bubble, insertion, merge, and quick.  Which of these do 
+you already know? 
+
+	In many problems there are several pieces which go together.  For 
+example, you might have student id numbers, gender codes (M or F), and qpas.  
+You could use an integer array for the id numbers, a character array for the 
+gender codes, and a double array for the qpas.  A particular id number goes
+with a particular gender code and a particular qpa because they have the same 
+position in their respective arrays, that is, they have the same index!  Such
+arrays are called parallel arrays.
